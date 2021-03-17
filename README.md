@@ -17,4 +17,4 @@
 <svg onLoad=alert(document.domain)>
 ```
 
-<center>by <p style="color: #fa5448">Kira Reys</p>
+by <p style="color: #fa5448">Kira Reys</p>
