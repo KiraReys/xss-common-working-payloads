@@ -17,4 +17,4 @@
 <svg onLoad=alert(document.domain)>
 ```
 
-by <p style="color: #fa5448">Kira Reys</p>
+## by Kira Reys
