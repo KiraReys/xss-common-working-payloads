@@ -18,4 +18,4 @@
 ```http://www.<script>alert(1)</script .com```
 
 <h2>by Kira Reys </h2>
-<p> XSS is really common vulnerability nowadays on web. This was list of some Payloads that workod in most cases for me. ✨</p>
+<p> XSS is really common vulnerability nowadays on web. This was list of some Payloads that workod in most cases for me. Thank you for your attention! ✨</p>
